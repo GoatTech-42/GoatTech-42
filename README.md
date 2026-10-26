@@ -7,8 +7,8 @@ i play games, write code, and build things for FIRST.
 - [ramjet](https://github.com/GoatTech-42/ramjet) - a self-hosted proxy browser.
 - [forge](https://github.com/GoatTech-42/goattech-forge) - experimental firmware for the ender 3 v3 se.
 
-## language mix
+## my public code
 
-![Public project language mix: meshac is mainly Shell and Java; ramjet is mainly JavaScript and Svelte; forge is mainly Shell and C++.](languages-2026-10-26.svg)
+![Account-wide public code: authored commits over time and language mix across all owned non-fork public repositories.](public-overview-2026-10-26.svg)
 
-<sub>Default-branch language bytes, not time spent or proficiency. Checked 26 Oct 2026. Sources: [meshac](https://api.github.com/repos/GoatTech-42/meshac/languages) · [ramjet](https://api.github.com/repos/GoatTech-42/ramjet/languages) · [forge](https://api.github.com/repos/GoatTech-42/goattech-forge/languages).</sub>
+<sub>Public repos only. Activity counts unique commits attributed to GoatTech-42 on default branches, by author date (Los Angeles), May 1-Oct 26, 2026. Not all GitHub contributions. Language mix sums GitHub language bytes across all 19 owned non-fork public repos; generated/vendor code may count. Private repos and the one public fork are excluded. Checked Oct 26, 2026. [Public repositories](https://github.com/GoatTech-42?tab=repositories).</sub>
