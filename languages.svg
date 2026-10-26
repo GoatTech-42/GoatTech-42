@@ -1,51 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="426" viewBox="0 0 840 426" role="img" aria-labelledby="title desc">
-<title id="title">Public project language mix</title>
-<desc id="desc">GitHub language bytes for three public repositories, checked 26 October 2026. Not time spent, skill, or private work.</desc>
-<rect width="840" height="426" rx="16" fill="#0d1117"/>
-<rect x=".5" y=".5" width="839" height="425" rx="16" fill="none" stroke="#30363d"/>
-<text x="28" y="40" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="24" font-weight="650" fill="#f0f6fc">public project language mix</text>
-<text x="28" y="64" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">GitHub language bytes · default branches · checked 26 Oct 2026</text>
-<text x="28" y="103" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">meshac</text>
-<text x="580" y="103" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">835,364 language bytes</text>
-<rect x="28.000" y="116" width="584.868" height="16" fill="#73a89a"/>
-<rect x="612.868" y="116" width="169.227" height="16" fill="#9aa5b5"/>
-<rect x="782.095" y="116" width="17.930" height="16" fill="#626e7f"/>
-<rect x="800.026" y="116" width="11.974" height="16" fill="#384454"/>
-<rect x="28" y="146" width="8" height="8" rx="2" fill="#73a89a"/>
-<text x="42" y="154" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Shell 74.6%</text>
-<rect x="224" y="146" width="8" height="8" rx="2" fill="#9aa5b5"/>
-<text x="238" y="154" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Java 21.6%</text>
-<rect x="420" y="146" width="8" height="8" rx="2" fill="#626e7f"/>
-<text x="434" y="154" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">JavaScript 2.3%</text>
-<rect x="616" y="146" width="8" height="8" rx="2" fill="#384454"/>
-<text x="630" y="154" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Other 1.5%</text>
-<text x="28" y="197" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">ramjet</text>
-<text x="580" y="197" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">4,766,823 language bytes</text>
-<rect x="28.000" y="210" width="721.265" height="16" fill="#73a89a"/>
-<rect x="749.265" y="210" width="59.074" height="16" fill="#9aa5b5"/>
-<rect x="808.339" y="210" width="1.784" height="16" fill="#626e7f"/>
-<rect x="810.124" y="210" width="1.876" height="16" fill="#384454"/>
-<rect x="28" y="240" width="8" height="8" rx="2" fill="#73a89a"/>
-<text x="42" y="248" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">JavaScript 92.0%</text>
-<rect x="224" y="240" width="8" height="8" rx="2" fill="#9aa5b5"/>
-<text x="238" y="248" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Svelte 7.5%</text>
-<rect x="420" y="240" width="8" height="8" rx="2" fill="#626e7f"/>
-<text x="434" y="248" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">CSS 0.2%</text>
-<rect x="616" y="240" width="8" height="8" rx="2" fill="#384454"/>
-<text x="630" y="248" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Other 0.2%</text>
-<text x="28" y="291" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">forge</text>
-<text x="580" y="291" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">51,124 language bytes</text>
-<rect x="28.000" y="304" width="588.307" height="16" fill="#73a89a"/>
-<rect x="616.307" y="304" width="121.915" height="16" fill="#9aa5b5"/>
-<rect x="738.222" y="304" width="58.443" height="16" fill="#626e7f"/>
-<rect x="796.665" y="304" width="15.335" height="16" fill="#384454"/>
-<rect x="28" y="334" width="8" height="8" rx="2" fill="#73a89a"/>
-<text x="42" y="342" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Shell 75.0%</text>
-<rect x="224" y="334" width="8" height="8" rx="2" fill="#9aa5b5"/>
-<text x="238" y="342" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">C++ 15.6%</text>
-<rect x="420" y="334" width="8" height="8" rx="2" fill="#626e7f"/>
-<text x="434" y="342" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Python 7.5%</text>
-<rect x="616" y="334" width="8" height="8" rx="2" fill="#384454"/>
-<text x="630" y="342" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#c9d1d9">Other 2.0%</text>
-<text x="28" y="393" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#8b949e">Repository composition, not proficiency or time spent. Public repos only.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="548" viewBox="0 0 360 548" role="img" aria-labelledby="title desc"><title id="title">Public project language mix</title><desc id="desc">Default-branch GitHub language bytes, checked 26 October 2026. Not time spent or proficiency.</desc><rect width="360" height="548" rx="12" fill="#0d1117"/><rect x=".5" y=".5" width="359" height="547" rx="12" fill="none" stroke="#30363d"/>
+<text x="20" y="34" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="600" fill="#f0f6fc">public project language mix</text>
+<text x="20" y="58" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">Default-branch language bytes</text>
+<text x="20" y="78" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">Checked 26 Oct 2026</text>
+<text x="20" y="115" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="600" fill="#f0f6fc">meshac</text>
+<text x="20" y="136" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">835,364 bytes</text>
+<rect x="20.000" y="148" width="238.722" height="14" fill="#73a89a"/>
+<rect x="258.722" y="148" width="69.072" height="14" fill="#9aa5b5"/>
+<rect x="327.794" y="148" width="7.318" height="14" fill="#626e7f"/>
+<rect x="335.112" y="148" width="4.888" height="14" fill="#384454"/>
+<rect x="20" y="171" width="8" height="8" rx="2" fill="#73a89a"/>
+<text x="34" y="180" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Shell 74.6%</text>
+<rect x="180" y="171" width="8" height="8" rx="2" fill="#9aa5b5"/>
+<text x="194" y="180" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Java 21.6%</text>
+<rect x="20" y="192" width="8" height="8" rx="2" fill="#626e7f"/>
+<text x="34" y="201" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">JavaScript 2.3%</text>
+<rect x="180" y="192" width="8" height="8" rx="2" fill="#384454"/>
+<text x="194" y="201" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Other 1.5%</text>
+<text x="20" y="243" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="600" fill="#f0f6fc">ramjet</text>
+<text x="20" y="264" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">4,766,823 bytes</text>
+<rect x="20.000" y="276" width="294.394" height="14" fill="#73a89a"/>
+<rect x="314.394" y="276" width="24.112" height="14" fill="#9aa5b5"/>
+<rect x="338.506" y="276" width="0.728" height="14" fill="#626e7f"/>
+<rect x="339.234" y="276" width="0.766" height="14" fill="#384454"/>
+<rect x="20" y="299" width="8" height="8" rx="2" fill="#73a89a"/>
+<text x="34" y="308" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">JavaScript 92.0%</text>
+<rect x="180" y="299" width="8" height="8" rx="2" fill="#9aa5b5"/>
+<text x="194" y="308" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Svelte 7.5%</text>
+<rect x="20" y="320" width="8" height="8" rx="2" fill="#626e7f"/>
+<text x="34" y="329" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">CSS 0.2%</text>
+<rect x="180" y="320" width="8" height="8" rx="2" fill="#384454"/>
+<text x="194" y="329" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Other 0.2%</text>
+<text x="20" y="371" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="600" fill="#f0f6fc">forge</text>
+<text x="20" y="392" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">51,124 bytes</text>
+<rect x="20.000" y="404" width="240.125" height="14" fill="#73a89a"/>
+<rect x="260.125" y="404" width="49.761" height="14" fill="#9aa5b5"/>
+<rect x="309.887" y="404" width="23.854" height="14" fill="#626e7f"/>
+<rect x="333.741" y="404" width="6.259" height="14" fill="#384454"/>
+<rect x="20" y="427" width="8" height="8" rx="2" fill="#73a89a"/>
+<text x="34" y="436" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Shell 75.0%</text>
+<rect x="180" y="427" width="8" height="8" rx="2" fill="#9aa5b5"/>
+<text x="194" y="436" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">C++ 15.6%</text>
+<rect x="20" y="448" width="8" height="8" rx="2" fill="#626e7f"/>
+<text x="34" y="457" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Python 7.5%</text>
+<rect x="180" y="448" width="8" height="8" rx="2" fill="#384454"/>
+<text x="194" y="457" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Other 2.0%</text>
+<text x="20" y="512" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">Repository composition only.</text>
+<text x="20" y="533" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">Not time spent or proficiency.</text>
 </svg>
