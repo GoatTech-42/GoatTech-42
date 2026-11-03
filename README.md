@@ -11,8 +11,8 @@ i play games, write code, and build things for FIRST.
 ## my public code
 
 <picture>
-  <source media="(min-width: 700px)" srcset="public-overview-wide-2026-10-26.svg">
-  <img alt="Account-wide public code: monthly authored commits, with language mix to the right on desktop." src="public-overview-2026-10-26.svg">
+  <source media="(min-width: 700px)" srcset="public-overview-wide-2026-11-02.svg">
+  <img alt="Account-wide public code: monthly authored commits, with language mix to the right on desktop." src="public-overview-2026-11-02.svg">
 </picture>
 
-<sub>Public repos only. Activity counts unique commits attributed to GoatTech-42 on default branches, by author date (Los Angeles), May 1-Oct 26, 2026. Not all GitHub contributions. Language mix sums GitHub language bytes across all 19 owned non-fork public repos; generated/vendor code may count. Private repos and the one public fork are excluded. Checked Oct 26, 2026. [Public repositories](https://github.com/GoatTech-42?tab=repositories).</sub>
+<sub>Public repos only. Activity counts unique commits attributed to GoatTech-42 on default branches, by author date (Los Angeles), May 1-Nov 2, 2026. Not all GitHub contributions. Language mix sums GitHub language bytes across all 19 owned non-fork public repos; generated/vendor code may count. Private repos and public forks are excluded. Checked Nov 2, 2026. [Public repositories](https://github.com/GoatTech-42?tab=repositories).</sub>
