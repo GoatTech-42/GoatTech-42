@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="442" viewBox="0 0 760 442" role="img" aria-labelledby="title"><title id="title">Account-wide public authored commits and language mix</title><rect width="760" height="442" rx="12" fill="#0d1117"/><rect x=".5" y=".5" width="759" height="441" rx="12" fill="none" stroke="#30363d"/>
+<text x="20" y="34" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="23" font-weight="600" fill="#f0f6fc">my public code</text>
+<text x="20" y="59" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">Across 20 owned, non-fork public repos</text>
+<text x="20" y="80" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">Checked 9 Nov 2026</text>
+<text x="20" y="117" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="30" font-weight="600" fill="#73a89a">561</text>
+<text x="91" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">public authored commits</text>
+<text x="20" y="140" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#8b949e">Default branches · May-Nov 2026</text>
+<text x="20" y="172" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">May</text>
+<rect x="67" y="161" width="0.00" height="14" fill="#73a89a"/>
+<text x="306" y="172" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">0</text>
+<text x="20" y="201" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Jun</text>
+<rect x="67" y="190" width="2.00" height="14" fill="#73a89a"/>
+<text x="306" y="201" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">4</text>
+<text x="20" y="230" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Jul</text>
+<rect x="67" y="219" width="0.50" height="14" fill="#73a89a"/>
+<text x="306" y="230" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">1</text>
+<text x="20" y="259" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Aug</text>
+<rect x="67" y="248" width="0.00" height="14" fill="#73a89a"/>
+<text x="306" y="259" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">0</text>
+<text x="20" y="288" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Sep</text>
+<rect x="67" y="277" width="20.54" height="14" fill="#73a89a"/>
+<text x="306" y="288" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">41</text>
+<text x="20" y="317" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Oct</text>
+<rect x="67" y="306" width="230.00" height="14" fill="#73a89a"/>
+<text x="306" y="317" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">459</text>
+<text x="20" y="346" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">Nov*</text>
+<rect x="67" y="335" width="28.06" height="14" fill="#73a89a"/>
+<text x="306" y="346" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">56</text>
+<text x="20" y="383" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#8b949e">* November through Nov 9 (partial month)</text>
+<path d="M373 24 V390" stroke="#30363d"/>
+<g transform="translate(380,-373)">
+<text x="20" y="407" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="600" fill="#f0f6fc">language mix</text>
+<text x="20" y="431" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="400" fill="#8b949e">78,098,743 language bytes · default branches</text>
+<text x="20" y="467" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">Rust</text>
+<text x="277" y="467" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">56.4%</text>
+<rect x="20" y="475" width="180.59" height="7" fill="#73a89a"/>
+<text x="20" y="507" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">Java</text>
+<text x="277" y="507" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">19.2%</text>
+<rect x="20" y="515" width="61.49" height="7" fill="#73a89a"/>
+<text x="20" y="547" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">JavaScript</text>
+<text x="277" y="547" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">11.9%</text>
+<rect x="20" y="555" width="38.17" height="7" fill="#73a89a"/>
+<text x="20" y="587" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">Python</text>
+<text x="277" y="587" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">8.4%</text>
+<rect x="20" y="595" width="26.95" height="7" fill="#73a89a"/>
+<text x="20" y="627" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">Svelte</text>
+<text x="277" y="627" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">1.1%</text>
+<rect x="20" y="635" width="3.51" height="7" fill="#73a89a"/>
+<text x="20" y="667" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">Shell</text>
+<text x="277" y="667" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">1.0%</text>
+<rect x="20" y="675" width="3.16" height="7" fill="#73a89a"/>
+<text x="20" y="707" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="400" fill="#c9d1d9">Other</text>
+<text x="277" y="707" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="400" fill="#c9d1d9">1.9%</text>
+<rect x="20" y="715" width="6.12" height="7" fill="#73a89a"/>
+</g>
+<text x="20" y="420" font-family="system-ui,sans-serif" font-size="12" fill="#8b949e">Public repos only · default branches · generated/vendor bytes may count · not skill or time spent</text>
+</svg>
